@@ -1,0 +1,8 @@
+{
+  "tasks": {
+    "start": "deno run mod.ts"
+  },
+  "fmt": {
+    "lineWidth": 200
+  }
+}
